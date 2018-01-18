@@ -1,0 +1,9 @@
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\bin\Debug\yazılımsınama.exe.config
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\obj\Debug\yazılımsınama.csprojResolveAssemblyReference.cache
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\obj\Debug\yazılımsınama.Form1.resources
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\obj\Debug\yazılımsınama.Properties.Resources.resources
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\obj\Debug\yazılımsınama.csproj.GenerateResource.Cache
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\bin\Debug\yazılımsınama.exe
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\bin\Debug\yazılımsınama.pdb
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\obj\Debug\yazılımsınama.exe
+C:\Users\METİN\Desktop\ymt\yazılımsınama\yazılımsınama\obj\Debug\yazılımsınama.pdb
